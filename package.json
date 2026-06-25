@@ -1,0 +1,16 @@
+{
+  "name": "swingdance_tests",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.61.1",
+    "@types/node": "26.0.1",
+    "dotenv": "17.4.2",
+    "typescript": "6.0.3"
+  }
+}
